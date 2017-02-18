@@ -28,3 +28,4 @@ function phucket($iSecDelay) {
   fclose($nFileHandle);
 
   return $bReqAllow;
+}
